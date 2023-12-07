@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fd9aa0a-d90f-4d3e-bf69-c99ca2ce9b61" name="Changes" comment="это говно собирается 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MapComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MapComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/ItemService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/ItemService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/PointService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PointService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/TagService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TagService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/UserService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/UserService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/userStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/userStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Auth/RegistrationForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Auth/RegistrationForm.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WjUwkRUhZIhYjr4q2PTOY3Drx0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/pigolitsyn/hackaton-2023/src/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "/home/pigolitsyn/hackaton-2023/node_modules/prettier",
+    "ts.external.directory.path": "/home/pigolitsyn/hackaton-2023/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fd9aa0a-d90f-4d3e-bf69-c99ca2ce9b61" name="Changes" comment="" />
+      <created>1697245723664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697245723664</updated>
+      <workItem from="1697245724685" duration="16017000" />
+    </task>
+    <task id="LOCAL-00001" summary="это говно собирается">
+      <created>1697257456189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697257456189</updated>
+    </task>
+    <task id="LOCAL-00002" summary="это говно собирается 2">
+      <created>1697258313357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697258313357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="это говно собирается" />
+    <MESSAGE value="это говно собирается 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="это говно собирается 2" />
+  </component>
+</project>
